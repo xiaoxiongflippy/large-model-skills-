@@ -1,4 +1,0 @@
-interface:
-  display_name: "Web Crawl Fallback"
-  short_description: "Crawl many websites to PDF with anti-bot fallback handling."
-  default_prompt: "Crawl this URL, export PDF/HTML/JSON, detect anti-bot or blocked content, retry with fallback settings, and report success or blocked with next actions."
